@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        {% if page.lang == 'ja' %}
+        <a class="brand" href="{{ '/ja/' | relative_url }}">西川和希</a>
+        <p class="brand-sub">大阪大学経済学研究科</p>
+        <nav class="nav">
+          <a href="{{ '/ja/' | relative_url }}" {% if page.nav=='home' %} class="active" {% endif %}>ホーム</a>
+          <a href="{{ '/ja/cv' | relative_url }}" {% if page.nav=='cv' %} class="active" {% endif %}>履歴書</a>
+          <a href="{{ '/ja/papers' | relative_url }}" {% if page.nav=='papers' %} class="active" {% endif %}>論文</a>
+          <a href="{{ '/ja/presentations' | relative_url }}" {% if page.nav=='presentations' %} class="active" {% endif
+            %}>研究報告</a>
+          <a href="{{ '/ja/teaching' | relative_url }}" {% if page.nav=='teaching' %} class="active" {% endif
+            %}>教育活動</a>
+        </nav>
+        <a class="lang-switch" href="{{ '/' | relative_url }}">English</a>
+        {% else %}
+        <a class="brand" href="{{ '/' | relative_url }}">Kazuki Nishikawa</a>
+        <p class="brand-sub">Graduate School of Economics,<br>The University of Osaka</p>
+        <nav class="nav">
+          <a href="{{ '/' | relative_url }}" {% if page.nav=='home' %} class="active" {% endif %}>Home</a>
+          <a href="{{ '/cv' | relative_url }}" {% if page.nav=='cv' %} class="active" {% endif %}>Curriculum Vitae</a>
+          <a href="{{ '/papers' | relative_url }}" {% if page.nav=='papers' %} class="active" {% endif %}>Papers</a>
+          <a href="{{ '/presentations' | relative_url }}" {% if page.nav=='presentations' %} class="active" {% endif
+            %}>Presentations</a>
+          <a href="{{ '/teaching' | relative_url }}" {% if page.nav=='teaching' %} class="active" {% endif
+            %}>Teaching</a>
+        </nav>
+        <a class="lang-switch" href="{{ '/ja/' | relative_url }}">日本語</a>
+        {% endif %}
+      </div>
+    </aside>
+    <main class="content">
+      <div class="content-inner">
+        {{ content }}
+      </div>
+    </main>
+  </div>
+</body>
+
+</html>
