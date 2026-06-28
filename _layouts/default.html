@@ -14,6 +14,8 @@
 </head>
 
 <body>
+  <button class="menu-toggle" aria-label="メニュー">&#9776;</button>
+  <div class="overlay"></div>
   <div class="layout">
     <aside class="sidebar">
       <div class="sidebar-inner">
@@ -52,6 +54,22 @@
       </div>
     </main>
   </div>
+  <script>
+    (function () {
+      var toggle = document.querySelector('.menu-toggle');
+      var sidebar = document.querySelector('.sidebar');
+      var overlay = document.querySelector('.overlay');
+      function close() {
+        sidebar.classList.remove('open');
+        overlay.classList.remove('open');
+      }
+      toggle.addEventListener('click', function () {
+        sidebar.classList.toggle('open');
+        overlay.classList.toggle('open');
+      });
+      overlay.addEventListener('click', close);
+    })();
+  </script>
 </body>
 
 </html>
