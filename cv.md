@@ -32,7 +32,7 @@ title: Curriculum Vitae
 
 ## Grants
 
-- JST SPRING, Grant Number JPMJSP2138, 2025–2028 (expected)
+- JST SPRING, Grant Number JPMJSP2138, Apr. 2025 – Mar. 2028 (expected)
 
 ## Affiliated Academic Societies
 

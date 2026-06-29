@@ -27,7 +27,7 @@ title: Teaching
     - "Microeconomics 2", Fall/Winter Semester (graduate level, core courses)
 - Osaka School of International Public Policy, The University of Osaka
   - 2026
-    - "Macroeconomic Theory" (graduate level)
+    - "Macroeconomic Theory", Summer Semester (graduate level)
 
 ## Teaching Assistant
 
