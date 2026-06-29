@@ -17,5 +17,5 @@ title: Presentations
 - [Industrial Organization and Competition Policy Workshop](https://norick.sakura.ne.jp/iocp/iocp.html), The University of Osaka, Dec. 2025
 - [Kansai University Economics Workshop](https://esku.smartcore.jp/activity/seminar), Kansai University, Oct. 2025
 - [Applied Economics and Management Workshop](https://sites.google.com/site/shenhudaxueioyanjiuhui/), Kwansei Gakuin University, Jul. 2025
-- [Economic Workshop for Young Researchers](https://sites.google.com/view/wakate-econ/home), Kyoto University, Dec. 2024
+- [Economic Workshop for Young Economists](https://sites.google.com/view/wakate-economics), Kyoto University, Dec. 2024
 - [Industrial Organization and Competition Policy Workshop](https://norick.sakura.ne.jp/iocp/iocp.html), The University of Osaka, Nov. 2024
