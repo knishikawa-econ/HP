@@ -12,5 +12,8 @@ title: ホーム
 - 研究上の関心: 産業組織
 - 連絡先: knishikawa.econ [at] gmail.com
 
+## リンク
+- [Google Scholar](https://scholar.google.com/citations?user=WB06ZjkAAAAJ)
+
 ## 近況報告
 - 2026/06/29: 個人サイトを作りました。
