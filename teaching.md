@@ -20,9 +20,9 @@ title: Teaching
 
 - Graduate School of Economics, The University of Osaka
   - 2026
-    - "Preliminary Mathematics for Economics" (graduate level, 4 days of intensive math courses)
+    - "Preliminary Mathematics for Economics" (graduate level, intensive math courses)
   - 2025
-    - "Preliminary Mathematics for Economics" (graduate level, 4 days of intensive math courses)
+    - "Preliminary Mathematics for Economics" (graduate level, intensive math courses)
     - "Microeconomics 1", Spring/Summer Semester (graduate level, core courses)
     - "Microeconomics 2", Fall/Winter Semester (graduate level, core courses)
 - Osaka School of International Public Policy, The University of Osaka
@@ -33,6 +33,6 @@ title: Teaching
 
 - Osaka School of International Public Policy, The University of Osaka
   - 2024
-    - "Microeconomic Analysis 2 (Game Theory)", Fall/Winter Semester (graduate level)
+    - "Microeconomic Analysis 2", Fall/Winter Semester (graduate level)
 
 \*Teaching fellows have a broader scope of duties than teaching assistants and can conduct supplementary lectures and grade assignments.
