@@ -14,6 +14,7 @@ title: ホーム
 
 ## リンク
 - [Google Scholar](https://scholar.google.com/citations?user=WB06ZjkAAAAJ)
+- [IDEAS/RePEc](https://ideas.repec.org/f/pni517.html)
 
 ## 近況報告
 - 2026/06/29: 個人サイトを作りました。

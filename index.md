@@ -13,6 +13,7 @@ Ph.D. Student, Graduate School of Economics, The University of Osaka
 
 ## Links
 - [Google Scholar](https://scholar.google.com/citations?user=WB06ZjkAAAAJ)
+- [IDEAS/RePEc](https://ideas.repec.org/f/pni517.html)
 
 ## News
 - 2026/06/29: I have launched a personal website.
