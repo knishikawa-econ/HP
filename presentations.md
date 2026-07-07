@@ -6,13 +6,13 @@ title: Presentations
 
 # Presentations
 
-## Conference
+## Conferences
 
 - [Japan Association for Applied Economics](https://www.jaae.org/), 2026 Spring Meeting, Tohoku Gakuin University, Jun. 2026
 - [Japan Association for Applied Economics](https://www.jaae.org/), 2025 Autumn Meeting, The University of Kitakyushu, Nov. 2025
 - [Japan Association for Applied Economics](https://www.jaae.org/), 2025 Spring Meeting, University of Hyogo, Jun. 2025
 
-## Workshop
+## Workshops
 
 - [Industrial Organization and Competition Policy Workshop](https://norick.sakura.ne.jp/iocp/iocp.html), The University of Osaka, Dec. 2025
 - [Kansai University Economics Workshop](https://esku.smartcore.jp/activity/seminar), Kansai University, Oct. 2025
