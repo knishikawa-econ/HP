@@ -6,6 +6,13 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
+## Education
+
+- Graduate School of Economics, The University of Osaka, Apr. 2023 – present
+  - M.A. in Economics, Mar. 2025
+- Faculty of Economics, Kansai University, Apr. 2019 – Mar. 2023
+  - B.A. in Economics, Mar. 2023
+
 ## Employment
 
 - Part-time Lecturer, Faculty of Economics, Kansai University
@@ -22,13 +29,6 @@ title: Curriculum Vitae
   - Apr. 2026 – Jun. 2026
 - Teaching Assistant, Osaka School of International Public Policy, The University of Osaka
   - Oct. 2024 – Feb. 2025
-
-## Education
-
-- Graduate School of Economics, The University of Osaka, Apr. 2023 – present
-  - M.A. in Economics, Mar. 2025
-- Faculty of Economics, Kansai University, Apr. 2019 – Mar. 2023
-  - B.A. in Economics, Mar. 2023
 
 ## Grants
 
