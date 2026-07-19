@@ -17,5 +17,5 @@ Ph.D. Student, Graduate School of Economics, The University of Osaka
 - [Google Scholar](https://scholar.google.com/citations?user=WB06ZjkAAAAJ)
 
 ## News
-- 2026/07/15: "The effects of minimum wage in inter-regional oligopoly competition" has been accepted at [Contemporary Economic Policy](https://onlinelibrary.wiley.com/journal/14657287).
+- 2026/07/15: "The effects of minimum wage regulation in inter-regional oligopoly competition" has been accepted at [Contemporary Economic Policy](https://onlinelibrary.wiley.com/journal/14657287).
 - 2026/06/29: I have launched a personal website.
