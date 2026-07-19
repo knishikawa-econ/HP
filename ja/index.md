@@ -19,4 +19,5 @@ title: 西川和希
 
 ## 近況報告
 
+- 2026/07/20: "The effects of minimum wage in inter-regional oligopoly competition"が[Contemporary Economic Policy](https://onlinelibrary.wiley.com/journal/14657287)に採択されました。
 - 2026/06/29: 個人サイトを作りました。
