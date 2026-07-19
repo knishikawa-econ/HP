@@ -19,5 +19,5 @@ title: 西川和希
 
 ## 近況報告
 
-- 2026/07/15: "The effects of minimum wage regulation in inter-regional oligopoly competition" が [Contemporary Economic Policy](https://onlinelibrary.wiley.com/journal/14657287)に受理されました。
+- 2026/07/15: "The effects of minimum wage regulation in inter-regional oligopoly competition"が[Contemporary Economic Policy](https://onlinelibrary.wiley.com/journal/14657287) に受理されました。
 - 2026/06/29: 個人サイトを作りました。
