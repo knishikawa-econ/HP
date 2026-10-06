@@ -23,7 +23,7 @@ title: Curriculum Vitae
   - Apr. 2026 – present
 - Research Assistant, Faculty of Economics, Kyoto Sangyo University
   - Apr. 2025 – Sep. 2025
-  - Apr. 2026 – present
+  - Apr. 2026 – Sep. 2026
 - Specially Appointed Researcher S, Institute of Social and Economic Research, The University of Osaka
   - Apr. 2025 – Feb. 2026
   - Apr. 2026 – Jun. 2026
