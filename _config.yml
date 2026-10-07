@@ -1,5 +1,19 @@
 # サイト全体の設定
 lang: en
+title: Kazuki Nishikawa
+description: >-
+  Kazuki Nishikawa (西川和希), Ph.D. student at the Graduate School of Economics,
+  The University of Osaka. Research interests: Industrial Organization.
+author: Kazuki Nishikawa
+
+# 公開URL（GitHub Pages）
+url: https://knishikawa-econ.github.io
+baseurl: /HP
+
+# 検索エンジン向け：メタタグとサイトマップを自動生成
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # 独自レイアウトを使うため minima テーマは指定しない
 
@@ -9,6 +23,13 @@ defaults:
       path: ""
     values:
       layout: default
+  # 日本語ページの説明文
+  - scope:
+      path: "ja"
+    values:
+      description: >-
+        西川和希（Kazuki Nishikawa）のホームページ。大阪大学大学院経済学研究科
+        博士後期課程。研究分野は産業組織論。
 
 include:
   - ja

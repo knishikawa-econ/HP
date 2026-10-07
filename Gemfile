@@ -8,3 +8,9 @@ gem "csv"
 gem "bigdecimal"
 gem "logger"
 gem "base64"
+
+# GitHub Pages でも使えるプラグイン（SEO タグとサイトマップ）
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+end

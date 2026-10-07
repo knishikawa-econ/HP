@@ -4,7 +4,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
+  {% comment %}トップページは名前のみ、他のページは「ページ名 | 名前」{% endcomment %}
+  <title>{% if page.title == site.title %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
+  {% seo title=false %}
+  {% comment %}英語版と日本語版の対応を検索エンジンに伝える{% endcomment %}
+  {% if page.lang == 'ja' %}
+  {% assign ja_url = page.url %}
+  {% assign en_url = page.url | remove_first: '/ja' %}
+  {% else %}
+  {% assign en_url = page.url %}
+  {% assign ja_url = page.url | prepend: '/ja' %}
+  {% endif %}
+  <link rel="alternate" hreflang="en" href="{{ en_url | absolute_url }}">
+  <link rel="alternate" hreflang="ja" href="{{ ja_url | absolute_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ en_url | absolute_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
