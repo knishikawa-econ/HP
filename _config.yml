@@ -2,7 +2,7 @@
 lang: en
 title: Kazuki Nishikawa
 description: >-
-  Personal website of Kazuki Nishikawa, a second-year Ph.D. student at the
+  Personal website of Kazuki Nishikawa, a Ph.D. student at the
   Graduate School of Economics, The University of Osaka.
 author: Kazuki Nishikawa
 
@@ -27,7 +27,7 @@ defaults:
   - scope:
       path: "ja"
     values:
-      description: 大阪大学大学院経済学研究科 博士後期課程2年の西川和希の個人サイト
+      description: 大阪大学大学院経済学研究科 博士後期課程の西川和希の個人サイト
 
 include:
   - ja
