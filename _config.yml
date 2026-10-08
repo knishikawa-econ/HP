@@ -27,9 +27,7 @@ defaults:
   - scope:
       path: "ja"
     values:
-      description: >-
-        西川和希（Kazuki Nishikawa）のホームページ。大阪大学大学院経済学研究科
-        博士後期課程。研究分野は産業組織論。
+      description: 大阪大学大学院経済学研究科 博士後期課程2年の西川和希の個人サイト
 
 include:
   - ja
